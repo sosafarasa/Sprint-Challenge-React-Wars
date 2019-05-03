@@ -26,11 +26,20 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+React is a UI library that allows us to build complex user interfaces.
+
 - [ ] What does it mean to _think_ in react?
+
+Functional components are used to create Dom elements and don't have access to state. Class components can access lifecycle methods and therefore to state.
 
 - [ ] Describe state.
 
+State is data stored within the App.
+
 - [ ] Describe props.
+
+Props, short for property, allows our components to be more dynamic by passing attributes to the components.
+
 
 ## Project Set Up
 
