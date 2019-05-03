@@ -1,0 +1,16 @@
+.char-card {
+    width: 48%;
+    height: 200px;
+    border-radius: 40px;
+    margin: 5px;
+    background-color: white;
+    opacity: .8;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: Verdana, sans-serif;
+}
+
+.char-info h2{
+    text-decoration: underline;
+}
